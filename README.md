@@ -1,6 +1,10 @@
 # toDoList
-A to-do list app written by react, node JS and MySQL.<br> 
-Open the toDoList folder using cmd or other terminal tool.<br>
+A to-do list app written by react, node JS and MySQL.<br><br>
+
+!!You need to run wamp/xamp before setting up the database!!.<br>
+
+Open the toDoList folder using cmd.<br>
+Then go to server folder.<br>
 
 Server Installation<br>
 1.First you need install the required packages in the server folder.You can do this by running "npm install" inside the folder "server"<br>
@@ -9,6 +13,6 @@ Server Installation<br>
 The server should be up and running correctly by now.<br>
 
 Client folder installation<br>
-1.Go to client folder,then run npm install.This will install all the required packages.<br>
+1.Go back to toDoList folder and then go to client folder,then run npm install.This will install all the required packages.<br>
 2.run npm start,the react app will pop up on browser.<br>
 
