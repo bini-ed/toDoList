@@ -1,5 +1,5 @@
 # toDoList
-A to-do list app made by react, node JS and MySQL 
+A to-do list app written by react, node JS and MySQL 
 Open the toDoList folder using cmd or other terminal tool.
 
 Server Installation
