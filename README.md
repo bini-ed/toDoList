@@ -14,5 +14,5 @@ The server should be up and running correctly by now.<br>
 
 Client folder installation<br>
 1.Go back to toDoList folder and then go to client folder,then run npm install.This will install all the required packages.<br>
-2.run npm start,the react app will pop up on browser.<br>
+2.Run npm start,the react app will start.<br>
 
