@@ -11,4 +11,4 @@ The server should be up and running correctly by now.
 Client folder installation
 1.Go to client folder,then run npm install.This will install all the required packages.
 2.run npm start,the react app will pop up on browser.
-IT WORKS!!
+
