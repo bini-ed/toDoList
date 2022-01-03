@@ -1,0 +1,15 @@
+.new {
+  width: 100%;
+  margin-top: 50px;
+  margin: 10px;
+}
+.completedTable {
+  margin: 20px;
+  width: 50%;
+  background-color: rgb(190, 134, 124);
+}
+.newTable {
+  margin: 20px;
+  width: 50%;
+  background-color: beige;
+}

@@ -1,0 +1,59 @@
+.app_header {
+  background-color: darkcyan;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.app_header_text {
+  text-align: center;
+  color: white;
+}
+.profile {
+  position: fixed;
+  color: white;
+  right: 10px;
+}
+.profile:hover {
+  color: orange;
+}
+
+.loginOrRegister {
+  display: flex;
+  background-color: blueviolet;
+  min-height: 89.2vh;
+}
+
+.btnSignup {
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  background-color: tomato;
+  padding: 15px;
+  border-radius: 15px;
+  margin: 10px;
+  color: white;
+  width: 50%;
+  font-size: 5rem;
+  justify-content: center;
+  align-items: center;
+}
+.btnLogin {
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  background-color: greenyellow;
+  padding: 15px;
+  border-radius: 15px;
+  margin: 10px;
+  color: black;
+  width: 50%;
+  font-size: 5rem;
+  justify-content: center;
+  align-items: center;
+}
+.btnSignup:hover,
+.btnLogin:hover {
+  font-size: 7rem;
+  color: rgb(93, 6, 93);
+}

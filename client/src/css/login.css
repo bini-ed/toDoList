@@ -1,0 +1,25 @@
+.login {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  min-height: 100vh;
+  align-items: center;
+  background-color: violet;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  background-color: darkcyan;
+  padding: 10px;
+}
+.form-group > label {
+  color: whitesmoke !important;
+}
+.btn {
+  display: flex;
+  align-self: center !important;
+  justify-self: center !important;
+  margin-top: 10px;
+}
